@@ -1,8 +1,43 @@
-# React + Vite
+# Brogram
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, modern web application built with React and Vite.
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Brogram is designed for speed, scalability, and ease of use. This project leverages the power of Vite for lightning-fast development and React for a smooth user experience.
+
+## Features
+
+- ⚡ Fast and lightweight setup with Vite
+- 💻 Built using React for component-driven development
+- 📦 Modular and maintainable code structure
+
+## Screenshot
+
+Below is a preview of the application when hosted:
+
+![Brogram Screenshot](public/brogram.png)
+
+## Getting Started
+
+To run this project locally:
+
+```bash
+npm install
+npm run dev
+```
+
+Visit `http://localhost:5173` in your browser.
+
+## Project Structure
+
+- `src/` - Main source code
+- `public/` - Static files (including favicon, brofram.png screenshot, etc.)
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+Made with ❤️ using React + Vite.
