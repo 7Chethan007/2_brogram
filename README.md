@@ -2,6 +2,8 @@
 
 A sleek, modern web application built with React and Vite.
 
+## [Live](https://brogramfitnessapp.netlify.app/)
+
 ## Overview
 
 Brogram is designed for speed, scalability, and ease of use. This project leverages the power of Vite for lightning-fast development and React for a smooth user experience.
